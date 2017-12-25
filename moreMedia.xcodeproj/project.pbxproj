@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		0F07A6A31FEF50BA00CFBD50 /* 黎允文 - 赵子龙.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 0FB15E2A1FED4C08002DBB89 /* 黎允文 - 赵子龙.mp3 */; };
 		0FB15DF91FEBFB9B002DBB89 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 0FB15DF81FEBFB9B002DBB89 /* AppDelegate.m */; };
 		0FB15DFC1FEBFB9B002DBB89 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 0FB15DFB1FEBFB9B002DBB89 /* ViewController.m */; };
 		0FB15DFF1FEBFB9B002DBB89 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0FB15DFD1FEBFB9B002DBB89 /* Main.storyboard */; };
@@ -51,6 +52,7 @@
 		0FB15E171FEBFB9B002DBB89 /* moreMediaUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = moreMediaUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		0FB15E1B1FEBFB9B002DBB89 /* moreMediaUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = moreMediaUITests.m; sourceTree = "<group>"; };
 		0FB15E1D1FEBFB9B002DBB89 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		0FB15E2A1FED4C08002DBB89 /* 黎允文 - 赵子龙.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "黎允文 - 赵子龙.mp3"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -101,6 +103,7 @@
 		0FB15DF61FEBFB9B002DBB89 /* moreMedia */ = {
 			isa = PBXGroup;
 			children = (
+				0FB15E2A1FED4C08002DBB89 /* 黎允文 - 赵子龙.mp3 */,
 				0FB15DF71FEBFB9B002DBB89 /* AppDelegate.h */,
 				0FB15DF81FEBFB9B002DBB89 /* AppDelegate.m */,
 				0FB15DFA1FEBFB9B002DBB89 /* ViewController.h */,
@@ -238,6 +241,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				0F07A6A31FEF50BA00CFBD50 /* 黎允文 - 赵子龙.mp3 in Resources */,
 				0FB15E041FEBFB9B002DBB89 /* LaunchScreen.storyboard in Resources */,
 				0FB15E011FEBFB9B002DBB89 /* Assets.xcassets in Resources */,
 				0FB15DFF1FEBFB9B002DBB89 /* Main.storyboard in Resources */,
